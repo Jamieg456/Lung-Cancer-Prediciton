@@ -79,7 +79,7 @@ and then navigating to the corresponding folder.
 
 Our lung cancer CSV dataset is stored in the data folder of our repo, and there is a python script data_preprocessing.py in our scripts folder that is called in the necessary notebooks to ensure the data is correclty cleaned and formatted.
 
-Our Image dataset was too large to upload to the git repository, thus there is a pyhton script download_image_dataset.py that will retrieve our dataset and store it in a corresponding root directory and reformat it within the necessary image notebooks.
+Our Image dataset was too large to upload to the git repository, thus there is a python script "download_image_dataset.py" that will retrieve our dataset and store it in a corresponding root directory and reformat it within the necessary image notebooks.
 
 
 ## Coursework Requirements
