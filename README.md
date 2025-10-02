@@ -2,13 +2,13 @@
 # Data Mining and Machine Learning Group Coursework
 
 
-## Group Members
+## Group Members (others hidden for privacy)
 
-1. Jamie Garrity - @jamieg456 - H00243621
-2. Tasnim Ramnarine - @tasnimzah - H00448137
-3. Prakash Kabra - @prakashkabra7 - H00484825
-4. Antonin Moreno @[github_username] - H00478052
-5. Numan Arif [Rf-numan] - H00457584
+1. Jamie Garrity
+2. xxx
+3. xxx
+4. xxx
+5. xxx
 
 ## Initial Project Proposal
 Our project aims to look at cancer prediction, specifically lung cancer. This was prompted by the desire to work with an imaging dataset as well as a CSV.
